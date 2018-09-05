@@ -1,0 +1,55 @@
+*{
+	color: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+.body {
+	color:white;
+}
+
+
+.judul {
+	background-color: whitesmoke;
+	border: 5px solid red;
+	text-align: center;
+	width: 500px;
+	padding: 10px;
+}
+
+.judul h1{
+	text-align: left;	
+}
+
+.judul p {
+	font-size: 20px;
+}
+.warna {
+	text-align: center;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+#wrapper {
+	width: 990px;
+}
+
+#suratalikhlas{
+	margin-bottom: 5px;
+	padding: 15px;
+	background-color: 
+}
+#bismillah{
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+#ayatpertama {
+	font-size: 25px;
+	padding: 35px;
+	height: 80px;
+	background-color: green;
+}
+
+#"" {
+	background: black;
+
